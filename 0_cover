@@ -1,0 +1,17 @@
+Assignment 1: The Headline Test
+
+Name: Aaila Javaid
+ERP ID: 37268
+Grace tokens used (yes/no): No
+
+AI tools used: Gemini,Claude
+Snapshot code(commit for 'attempt-before-AI'):
+
+Files in this folder:
+0_cover.md
+1_attempt.md
+2_work.ipynb
+3_log_reflection.md
+
+In this assignment I have covered the first steps of data analysis including observing claims, producing questions, refining them using GenAI for better targeted analysis, and shortlisting the most efficient questions. 
+I have also used Python to describe the dataset in a way that helps in narrowing down what data would be best suited to answer my questions.
